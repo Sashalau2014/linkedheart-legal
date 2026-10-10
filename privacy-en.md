@@ -1,6 +1,6 @@
 # LinkedHeart (暖伴) Privacy Policy
 
-**Effective date: 13 September 2026**
+**Effective date: 10 October 2026**
 
 LinkedHeart ("the App", "we", "us") respects your privacy. This policy explains how we collect, use, store, and protect your personal data, in accordance with the Hong Kong Personal Data (Privacy) Ordinance (Cap. 486, "PDPO") and Apple App Store requirements.
 
@@ -16,6 +16,7 @@ We collect only the data necessary to provide the service:
 | Phone number | Optional | Set by the elder; lets family call with one tap during missed-dose alerts |
 | Medication names & reminder times | Required for reminders | Entered by the elder; used only for reminders and syncing with authorised family |
 | Medication check-in records | Generated automatically | Includes check-in time and status (on time / late / missed) |
+| Blood pressure readings | Optional | Systolic, diastolic, pulse and measurement time entered by the elder. Used only to keep a record, to sync with authorised family within the sharing scope the elder chooses, and for a PDF the user exports themselves. The App does not interpret or evaluate these values. |
 | Family relationship name | Optional | Set by the family member (e.g. "daughter", "grandson"); shown to the elder |
 | Device push notification token | Generated when push is enabled | Used to deliver reminders and alerts to your device |
 | Account identifier | Generated automatically | Anonymous account or Sign in with Apple identifier, used to distinguish users |
@@ -28,7 +29,8 @@ Your data is used solely to:
 
 1. **Provide medication reminders** — local and push notifications at the times you set;
 2. **Sync with authorised family** — only family members the elder has actively authorised via a pairing code can view data, within the sharing scope the elder chooses;
-3. **Send missed-dose alerts** — notify authorised family when consecutive missed doses are detected.
+3. **Send missed-dose alerts** — notify authorised family when consecutive missed doses are detected;
+4. **Export records** — generate, on your device and at your request, a PDF of blood pressure readings to share with whoever you choose (for example a doctor) via the system share sheet. The PDF is generated on-device; we never receive or store it.
 
 We will not use your data for any other purpose. Any new purpose will require your prior consent (PDPO Data Protection Principle 3).
 
@@ -51,7 +53,7 @@ Elders can, at any time within the App:
 
 - Change the sharing scope (detailed / status-only / paused), effective immediately;
 - Remove any linked family member;
-- **Delete their account** — permanently erasing all data in the cloud and on the device (medications, check-in records, family links, account).
+- **Delete their account** — permanently erasing all data in the cloud and on the device (medications, check-in records, blood pressure readings, family links, account).
 
 Family members can likewise unlink or delete their own account at any time.
 
@@ -71,6 +73,8 @@ We will respond within 40 days of receiving your request.
 ## 8. Not a Medical Service
 
 The App **provides medication reminders only**. It does not provide diagnosis, treatment, or dosage advice, and is not a substitute for professional medical advice. All medication names and reminder times are entered by users themselves. Always follow the instructions of your doctor and pharmacist; consult a healthcare professional with any health questions.
+
+The blood pressure log only stores and displays the numbers you enter yourself; it does not judge whether values are high or low, sets no reference ranges or alerts, and sends no notifications based on them.
 
 ## 9. Children
 
